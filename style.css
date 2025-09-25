@@ -1,0 +1,23 @@
+body {
+  background-color:white;
+}
+header {
+  background-color: #007acc;
+  padding: 30px;
+  }
+
+section {
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px ;
+}
+h2 {
+  color: #007acc;
+}
+
+footer {
+  background-color:rgba(0, 149, 255, 0.642);
+    padding: 10px;
+}
